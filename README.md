@@ -1,1 +1,3 @@
-# msis_in_class
+In Canvas, submit a link to your GitHub repository.
+HW#3
+
